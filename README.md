@@ -24,6 +24,7 @@
 ├── README.md
 ├── Rest_Assured
 │   └── Activities // Rest Assured Classroom Activities Go Here
+│   └── Project    // Rest Assured Project Activities Go Here
 ├── Selenium
 │   ├── Activities // Selenium Classroom Activities Go Here
 │   └── Project    // Selenium Project Activities Go Here
